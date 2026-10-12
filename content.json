@@ -1,0 +1,447 @@
+{
+  "site": {
+    "pageTitle": "Ahmad Ayash — Senior Graphic Designer",
+    "navLogo": "AHMAD",
+    "footerName": "Ahmad Ayash"
+  },
+  "hero": {
+    "tag": "Available for Projects",
+    "firstName": "AHMAD",
+    "lastName": "AYASH",
+    "title": "Senior Graphic Designer",
+    "description": "With over 8 years of experience in visual communication and brand development, I specialize in creating comprehensive brand identities, infographics, social media campaigns, and print design. I translate concepts into impactful visual solutions that strengthen brand presence and engage target audiences.",
+    "photo": "images/profile.jpg",
+    "cv": "Ahmad_Ayyash_CV.pdf"
+  },
+  "stats": [
+    {
+      "number": 300,
+      "suffix": "+",
+      "label": "Projects"
+    },
+    {
+      "number": 8,
+      "suffix": "+",
+      "label": "Years Experience"
+    },
+    {
+      "number": 100,
+      "suffix": "+",
+      "label": "Clients"
+    },
+    {
+      "number": 5,
+      "suffix": "+",
+      "label": "Design Tools"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Adobe Illustrator",
+      "level": "Expert",
+      "icon": "images/illustrator.png"
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "Expert",
+      "icon": "images/photoshop.png"
+    },
+    {
+      "name": "Adobe InDesign",
+      "level": "Expert",
+      "icon": "images/indesign.png"
+    },
+    {
+      "name": "Canva",
+      "level": "Expert",
+      "icon": "images/canva.png"
+    },
+    {
+      "name": "PowerPoint",
+      "level": "Expert",
+      "icon": "images/powerpoint.png"
+    }
+  ],
+  "services": [
+    {
+      "title": "Brand Identity Design",
+      "description": "Logos, visual systems, and full brand guidelines that give a company one consistent, recognizable voice across every touchpoint."
+    },
+    {
+      "title": "Social Media Design",
+      "description": "Scroll-stopping posts, carousels, and campaign templates built to keep a brand active and on-message across platforms."
+    },
+    {
+      "title": "Infographics",
+      "description": "Complex data and ideas turned into clear, attractive visuals that people actually understand at a glance."
+    },
+    {
+      "title": "Print Design",
+      "description": "Catalogs, brochures, and print-ready collateral prepared with the right specs, color, and detail for professional production."
+    },
+    {
+      "title": "AI-Assisted Creative Design",
+      "description": "Modern workflows that blend AI tools with hands-on craft to produce concepts and assets faster, without losing the human touch."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Golden Wood",
+      "subtitle": "Wood Industry — UAE",
+      "category": "logos",
+      "viewer": "single",
+      "images": [
+        "images/logos/golden-wood.png"
+      ]
+    },
+    {
+      "title": "Jeddah Chocolate",
+      "subtitle": "Premium Chocolate Retail",
+      "category": "logos",
+      "viewer": "single",
+      "images": [
+        "images/logos/jeddah-chocolate.png"
+      ]
+    },
+    {
+      "title": "Sanad AI",
+      "subtitle": "Receivables & Payables Platform — KSA",
+      "category": "logos",
+      "viewer": "single",
+      "images": [
+        "images/logos/sanad.png"
+      ]
+    },
+    {
+      "title": "Jelly Node",
+      "subtitle": "Digital Services — Palestine",
+      "category": "logos",
+      "viewer": "single",
+      "images": [
+        "images/logos/jelly-node.png"
+      ]
+    },
+    {
+      "title": "AMD",
+      "subtitle": "Real Estate Development — UAE",
+      "category": "logos",
+      "viewer": "single",
+      "images": [
+        "images/logos/amd.png"
+      ]
+    },
+    {
+      "title": "Lamorya",
+      "subtitle": "Luxury Perfumes — Oman",
+      "category": "logos",
+      "viewer": "single",
+      "images": [
+        "images/logos/lamorya.png"
+      ]
+    },
+    {
+      "title": "Social Media",
+      "subtitle": "Instagram & campaign designs",
+      "category": "social",
+      "viewer": "grid",
+      "images": [
+        "images/social/social1.jpg",
+        "images/social/social2.jpg",
+        "images/social/social3.jpg",
+        "images/social/social4.jpg",
+        "images/social/social5.jpg",
+        "images/social/social6.jpg",
+        "images/social/social7.jpg",
+        "images/social/social8.png",
+        "images/social/social9.png",
+        "images/social/social10.png",
+        "images/social/social11.jpg",
+        "images/social/social12.jpg",
+        "images/social/social13.jpg",
+        "images/social/social14.jpg",
+        "images/social/social15.jpg",
+        "images/social/social16.jpg",
+        "images/social/social17.png",
+        "images/social/social18.png",
+        "images/social/social19.png",
+        "images/social/social20.jpg",
+        "images/social/social21.png",
+        "images/social/social22.jpg"
+      ]
+    },
+    {
+      "title": "Rawabet Al-Sina'a",
+      "subtitle": "Saudi Ministry of Industry — Brand Identity",
+      "category": "branding",
+      "viewer": "scroll",
+      "images": [
+        "images/identity/rawabet-001.jpg",
+        "images/identity/rawabet-002.jpg",
+        "images/identity/rawabet-003.jpg",
+        "images/identity/rawabet-004.jpg",
+        "images/identity/rawabet-005.jpg",
+        "images/identity/rawabet-006.jpg",
+        "images/identity/rawabet-007.jpg",
+        "images/identity/rawabet-008.jpg",
+        "images/identity/rawabet-009.jpg",
+        "images/identity/rawabet-010.jpg",
+        "images/identity/rawabet-011.jpg",
+        "images/identity/rawabet-012.jpg",
+        "images/identity/rawabet-013.jpg",
+        "images/identity/rawabet-014.jpg",
+        "images/identity/rawabet-015.jpg",
+        "images/identity/rawabet-016.jpg",
+        "images/identity/rawabet-017.jpg",
+        "images/identity/rawabet-018.jpg",
+        "images/identity/rawabet-019.jpg",
+        "images/identity/rawabet-020.jpg",
+        "images/identity/rawabet-021.jpg",
+        "images/identity/rawabet-022.jpg",
+        "images/identity/rawabet-023.jpg",
+        "images/identity/rawabet-024.jpg",
+        "images/identity/rawabet-025.jpg",
+        "images/identity/rawabet-026.jpg",
+        "images/identity/rawabet-027.jpg",
+        "images/identity/rawabet-028.jpg",
+        "images/identity/rawabet-029.jpg",
+        "images/identity/rawabet-030.jpg",
+        "images/identity/rawabet-031.jpg",
+        "images/identity/rawabet-032.jpg",
+        "images/identity/rawabet-033.jpg",
+        "images/identity/rawabet-034.jpg",
+        "images/identity/rawabet-035.jpg"
+      ]
+    },
+    {
+      "title": "Sanad AI",
+      "subtitle": "Brand Identity",
+      "category": "branding",
+      "viewer": "scroll",
+      "images": [
+        "images/identity/sanad-001.jpg",
+        "images/identity/sanad-002.jpg",
+        "images/identity/sanad-003.jpg",
+        "images/identity/sanad-004.jpg",
+        "images/identity/sanad-005.jpg",
+        "images/identity/sanad-006.jpg",
+        "images/identity/sanad-007.jpg",
+        "images/identity/sanad-008.jpg",
+        "images/identity/sanad-009.jpg",
+        "images/identity/sanad-010.jpg",
+        "images/identity/sanad-011.jpg",
+        "images/identity/sanad-012.jpg",
+        "images/identity/sanad-013.jpg",
+        "images/identity/sanad-014.jpg",
+        "images/identity/sanad-015.jpg",
+        "images/identity/sanad-016.jpg",
+        "images/identity/sanad-017.jpg",
+        "images/identity/sanad-018.jpg",
+        "images/identity/sanad-019.jpg",
+        "images/identity/sanad-020.jpg",
+        "images/identity/sanad-021.jpg",
+        "images/identity/sanad-022.jpg",
+        "images/identity/sanad-023.jpg",
+        "images/identity/sanad-024.jpg",
+        "images/identity/sanad-025.jpg",
+        "images/identity/sanad-026.jpg"
+      ]
+    },
+    {
+      "title": "Jelly Node",
+      "subtitle": "Brand Identity",
+      "category": "branding",
+      "viewer": "scroll",
+      "images": [
+        "images/identity/jellynode-001.jpg",
+        "images/identity/jellynode-002.jpg",
+        "images/identity/jellynode-003.jpg",
+        "images/identity/jellynode-004.jpg",
+        "images/identity/jellynode-005.jpg",
+        "images/identity/jellynode-006.jpg",
+        "images/identity/jellynode-007.jpg"
+      ]
+    },
+    {
+      "title": "Deemah",
+      "subtitle": "Brand Identity",
+      "category": "branding",
+      "viewer": "scroll",
+      "images": [
+        "images/identity/deemah-001.jpg",
+        "images/identity/deemah-002.jpg",
+        "images/identity/deemah-003.jpg",
+        "images/identity/deemah-004.jpg",
+        "images/identity/deemah-005.jpg",
+        "images/identity/deemah-006.jpg",
+        "images/identity/deemah-007.jpg",
+        "images/identity/deemah-008.jpg",
+        "images/identity/deemah-009.jpg",
+        "images/identity/deemah-010.jpg",
+        "images/identity/deemah-011.jpg",
+        "images/identity/deemah-012.jpg",
+        "images/identity/deemah-013.jpg",
+        "images/identity/deemah-014.jpg",
+        "images/identity/deemah-015.jpg",
+        "images/identity/deemah-016.jpg",
+        "images/identity/deemah-017.jpg",
+        "images/identity/deemah-018.jpg",
+        "images/identity/deemah-019.jpg"
+      ]
+    },
+    {
+      "title": "AMD",
+      "subtitle": "Brand Identity",
+      "category": "branding",
+      "viewer": "scroll",
+      "images": [
+        "images/identity/amd-001.jpg",
+        "images/identity/amd-002.jpg",
+        "images/identity/amd-003.jpg",
+        "images/identity/amd-004.jpg",
+        "images/identity/amd-005.jpg",
+        "images/identity/amd-006.jpg",
+        "images/identity/amd-007.jpg",
+        "images/identity/amd-008.jpg",
+        "images/identity/amd-009.jpg",
+        "images/identity/amd-010.jpg",
+        "images/identity/amd-011.jpg",
+        "images/identity/amd-012.jpg",
+        "images/identity/amd-013.jpg"
+      ]
+    },
+    {
+      "title": "Golden Wood",
+      "subtitle": "Product Catalog",
+      "category": "catalog",
+      "viewer": "flipbook",
+      "images": [
+        "images/catalog/page-001.jpg",
+        "images/catalog/page-002.jpg",
+        "images/catalog/page-003.jpg",
+        "images/catalog/page-004.jpg",
+        "images/catalog/page-005.jpg",
+        "images/catalog/page-006.jpg",
+        "images/catalog/page-007.jpg",
+        "images/catalog/page-008.jpg",
+        "images/catalog/page-009.jpg",
+        "images/catalog/page-010.jpg",
+        "images/catalog/page-011.jpg",
+        "images/catalog/page-012.jpg",
+        "images/catalog/page-013.jpg",
+        "images/catalog/page-014.jpg",
+        "images/catalog/page-015.jpg",
+        "images/catalog/page-016.jpg",
+        "images/catalog/page-017.jpg",
+        "images/catalog/page-018.jpg",
+        "images/catalog/page-019.jpg",
+        "images/catalog/page-020.jpg",
+        "images/catalog/page-021.jpg",
+        "images/catalog/page-022.jpg",
+        "images/catalog/page-023.jpg",
+        "images/catalog/page-024.jpg",
+        "images/catalog/page-025.jpg",
+        "images/catalog/page-026.jpg",
+        "images/catalog/page-027.jpg",
+        "images/catalog/page-028.jpg",
+        "images/catalog/page-029.jpg",
+        "images/catalog/page-030.jpg",
+        "images/catalog/page-031.jpg",
+        "images/catalog/page-032.jpg",
+        "images/catalog/page-033.jpg",
+        "images/catalog/page-034.jpg",
+        "images/catalog/page-035.jpg",
+        "images/catalog/page-036.jpg",
+        "images/catalog/page-037.jpg",
+        "images/catalog/page-038.jpg",
+        "images/catalog/page-039.jpg",
+        "images/catalog/page-040.jpg",
+        "images/catalog/page-041.jpg",
+        "images/catalog/page-042.jpg",
+        "images/catalog/page-043.jpg",
+        "images/catalog/page-044.jpg",
+        "images/catalog/page-045.jpg",
+        "images/catalog/page-046.jpg",
+        "images/catalog/page-047.jpg",
+        "images/catalog/page-048.jpg",
+        "images/catalog/page-049.jpg",
+        "images/catalog/page-050.jpg",
+        "images/catalog/page-051.jpg",
+        "images/catalog/page-052.jpg",
+        "images/catalog/page-053.jpg",
+        "images/catalog/page-054.jpg",
+        "images/catalog/page-055.jpg",
+        "images/catalog/page-056.jpg",
+        "images/catalog/page-057.jpg",
+        "images/catalog/page-058.jpg",
+        "images/catalog/page-059.jpg",
+        "images/catalog/page-060.jpg",
+        "images/catalog/page-061.jpg",
+        "images/catalog/page-062.jpg",
+        "images/catalog/page-063.jpg",
+        "images/catalog/page-064.jpg",
+        "images/catalog/page-065.jpg",
+        "images/catalog/page-066.jpg",
+        "images/catalog/page-067.jpg",
+        "images/catalog/page-068.jpg",
+        "images/catalog/page-069.jpg",
+        "images/catalog/page-070.jpg",
+        "images/catalog/page-071.jpg",
+        "images/catalog/page-072.jpg",
+        "images/catalog/page-073.jpg",
+        "images/catalog/page-074.jpg",
+        "images/catalog/page-075.jpg",
+        "images/catalog/page-076.jpg",
+        "images/catalog/page-077.jpg",
+        "images/catalog/page-078.jpg",
+        "images/catalog/page-079.jpg",
+        "images/catalog/page-080.jpg",
+        "images/catalog/page-081.jpg",
+        "images/catalog/page-082.jpg",
+        "images/catalog/page-083.jpg",
+        "images/catalog/page-084.jpg",
+        "images/catalog/page-085.jpg",
+        "images/catalog/page-086.jpg",
+        "images/catalog/page-087.jpg",
+        "images/catalog/page-088.jpg",
+        "images/catalog/page-089.jpg",
+        "images/catalog/page-090.jpg",
+        "images/catalog/page-091.jpg",
+        "images/catalog/page-092.jpg",
+        "images/catalog/page-093.jpg",
+        "images/catalog/page-094.jpg",
+        "images/catalog/page-095.jpg",
+        "images/catalog/page-096.jpg",
+        "images/catalog/page-097.jpg",
+        "images/catalog/page-098.jpg",
+        "images/catalog/page-099.jpg",
+        "images/catalog/page-100.jpg",
+        "images/catalog/page-101.jpg",
+        "images/catalog/page-102.jpg",
+        "images/catalog/page-103.jpg",
+        "images/catalog/page-104.jpg",
+        "images/catalog/page-105.jpg",
+        "images/catalog/page-106.jpg",
+        "images/catalog/page-107.jpg",
+        "images/catalog/page-108.jpg"
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "type": "email",
+      "value": "ahmadayyash201@gmail.com"
+    },
+    {
+      "type": "whatsapp",
+      "value": "+20 101 819 2331"
+    },
+    {
+      "type": "phone",
+      "value": "+970 592 154 307"
+    },
+    {
+      "type": "mobile",
+      "value": "+20 101 819 2331"
+    }
+  ]
+}

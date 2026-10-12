@@ -1,0 +1,122 @@
+# Pages CMS dashboard configuration — https://pagescms.org
+# Sign in at https://app.pagescms.org with GitHub and open this repository.
+
+media:
+  - name: images
+    label: Images
+    input: images
+    output: /images
+    categories: [image]
+  - name: documents
+    label: Documents (CV)
+    input: documents
+    output: /documents
+    extensions: [pdf]
+
+content:
+  - name: portfolio
+    label: Portfolio
+    type: file
+    path: content.json
+    format: json
+    fields:
+      - name: site
+        label: Site
+        type: object
+        fields:
+          - { name: pageTitle, label: Browser tab title, type: string }
+          - { name: navLogo, label: Logo text (top left), type: string }
+          - { name: footerName, label: Name in footer, type: string }
+
+      - name: hero
+        label: About / Hero
+        type: object
+        fields:
+          - { name: tag, label: Badge (e.g. Available for Projects), type: string }
+          - { name: firstName, label: First name, type: string }
+          - { name: lastName, label: Last name (highlighted), type: string }
+          - { name: title, label: Job title, type: string }
+          - { name: description, label: About text, type: text }
+          - { name: photo, label: Profile photo, type: image, options: { media: images } }
+          - { name: cv, label: CV file (PDF), type: file, options: { media: documents } }
+
+      - name: stats
+        label: Numbers (Projects, Years…)
+        type: object
+        list: true
+        fields:
+          - { name: number, label: Number, type: number }
+          - { name: suffix, label: Suffix (e.g. +), type: string }
+          - { name: label, label: Label, type: string }
+
+      - name: skills
+        label: Tools & Skills
+        type: object
+        list: true
+        fields:
+          - { name: name, label: Tool name, type: string }
+          - { name: level, label: Level, type: string }
+          - { name: icon, label: Icon, type: image, options: { media: images } }
+
+      - name: services
+        label: Services
+        type: object
+        list: true
+        fields:
+          - { name: title, label: Title, type: string }
+          - { name: description, label: Description, type: text }
+
+      - name: projects
+        label: Portfolio projects
+        description: The order here is the order on the site. Page/post counts are added automatically.
+        type: object
+        list: true
+        fields:
+          - { name: title, label: Project name, type: string, required: true }
+          - { name: subtitle, label: Subtitle (e.g. Brand Identity), type: string }
+          - name: category
+            label: Tab
+            type: select
+            required: true
+            options:
+              values:
+                - { name: logos, label: Logos }
+                - { name: branding, label: Brand Identity }
+                - { name: social, label: Social Media }
+                - { name: catalog, label: Catalogs }
+          - name: viewer
+            label: How it opens
+            type: select
+            required: true
+            options:
+              values:
+                - { name: single, label: Single image / gallery with arrows }
+                - { name: scroll, label: Scroll (brand identity pages stacked) }
+                - { name: flipbook, label: Flipbook (catalog spreads) }
+                - { name: grid, label: Grid (social media posts) }
+          - name: images
+            label: Images (in order)
+            type: image
+            options: { media: images, multiple: true }
+          - name: thumbnail
+            label: Cover thumbnail (optional — defaults to first image)
+            type: image
+            options: { media: images }
+
+      - name: contact
+        label: Contact
+        type: object
+        list: true
+        fields:
+          - name: type
+            label: Type
+            type: select
+            options:
+              values:
+                - { name: email, label: Email }
+                - { name: whatsapp, label: WhatsApp }
+                - { name: phone, label: Phone }
+                - { name: mobile, label: Mobile phone }
+                - { name: link, label: Other link (Behance, LinkedIn…) }
+          - { name: value, label: "Email / number / URL", type: string }
+          - { name: label, label: Custom label (optional), type: string }
